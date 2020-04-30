@@ -1,6 +1,8 @@
 # Etapa #1: Analisis del Problema:
  
-   .Mostrar "hola, mundo" o variantes del mismo.
+   .Mostrar "hola, mundo" o variantes del mismo por pantalla.
+   .Para ello necesito de un entorno de programacion y un programa para realizar esta tarea.
+   .Ademas debo leer desde un archivo de texto el mensaje elegido para mostrar.
   
 # Etapa #2: Diseño de la Solucion:
   
