@@ -16,4 +16,4 @@
 		
    
    Representacion Visual del Algoritmo:
-  <img src "https://user-images.githubusercontent.com/63463118/80316404-01215680-87d4-11ea-98cc-ea08183fc016.png">
+  https://user-images.githubusercontent.com/63463118/80316404-01215680-87d4-11ea-98cc-ea08183fc016.png
