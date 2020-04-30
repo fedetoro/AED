@@ -1,8 +1,8 @@
-Etapa #1: Analisis del Problema:
+# Etapa #1: Analisis del Problema:
  
    .Mostrar "hola, mundo" o variantes del mismo.
   
-Etapa #2: Diseño de la Solucion:
+# Etapa #2: Diseño de la Solucion:
   
    .Instalo el entorno MinGW para programar c++ en Windows.  
    .Descargo y configuro Dev-C++ para escribir, compilar y probar el programa.
