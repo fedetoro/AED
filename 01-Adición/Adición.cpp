@@ -9,5 +9,6 @@ int main(){
 	std::cin >> b;
 	std::cout << "La suma de ambos numeros es: \n";
 	std::cout << a+b;
+	std::cout << "\n";
 	system ("pause");
 }
