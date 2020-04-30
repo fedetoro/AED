@@ -1,4 +1,4 @@
-##Etapa #1: Analisis del problema:
+# Etapa #1: Analisis del problema:
 	
 	.Para este trabajo debo mostrar la suma de dos numeros que ingresa el usuario.
 	.Para ello necesito saber que tipo de numeros son, en este caso trabajo con numeros enteros.
@@ -6,7 +6,7 @@
 	Modelo IPO:
 		Z x Z -> Adicion -> Z
 
-##Etapa #2: Diseño de la Solucion:
+# Etapa #2: Diseño de la Solucion:
 	
 	.Los numeros a,b є Z
 	.Algortimo:
