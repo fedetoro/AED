@@ -1,6 +1,6 @@
 # Etapa 1: Analisis del Problema:
 
-    Para este trabajo debo realizar 3 programas que realicen las siguientes funciones:
+    Para este trabajo debo realizar 3 programas distintos que realicen las siguientes funciones, una funcion en cada programa:
         .Valor absoluto
         .Valor minimo entre dos valores
         .La funcion f3     
