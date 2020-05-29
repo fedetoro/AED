@@ -10,6 +10,9 @@ f3: https://user-images.githubusercontent.com/63463118/83210122-6d270f80-a130-11
     
     Para cada funcion utilizo el comando assert para la realizacion de las pruebas.
     Para ello inicializo con un #include <cassert> en cada programa.
+    Realizo las pruebas haciendo una comparacion entre un resultado esperado y el 
+    resultado de invocar a la funcion correspondiente. Ambos deben ser iguales.
+    
     
     
     
