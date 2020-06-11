@@ -8,8 +8,8 @@ bool IsBisiesto (unsigned a);
 //funcion main
 int main (){
     assert (not IsBisiesto(1582));
-    assert (not IsBisiesto(1749));
-    assert (IsBisiesto(1600));
+    assert (not IsBisiesto(1759));
+    assert (IsBisiesto(1700));
     assert (IsBisiesto(2020));
 }
 
