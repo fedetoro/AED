@@ -1,10 +1,10 @@
 # fedetoro 
-- Algoritmos y Estructuras de Datos
-- K1051
-- 2020
-- 146748-7
-- Gonzalez Toro
-- Federico Nicolas
+- Materia: Algoritmos y Estructuras de Datos
+- Curso: K1051
+- Año: 2020
+- Legajo: 146748-7
+- Apellido: Gonzalez Toro
+- Nombre: Federico Nicolas
 
           
            
