@@ -1,5 +1,23 @@
 # Etapa 01: Analisis del Problema:
      .Dado un año, determinar si es bisiesto.
+     
+     Lexico:
+     a ∈ N, IsBisiesto ∈ B
+     
+     Definicion Matematica:
+     x = a > 1582
+     y = a es divisible por 4
+     z = a es divisible por 100
+     w = a es divisible por 400
+     IsBisiesto = N → B / x ⋀ ((y ⋀ -z)⋁ w)
+     
+     Arbol de expansion:
+    
+          
+          
+      
+                 
+     
   
 # Etapa 02: Analisis de la Solucion:
      .Creo el prototipo de tipo de dato booleano IsBisiesto.
