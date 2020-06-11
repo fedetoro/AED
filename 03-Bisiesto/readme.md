@@ -11,7 +11,7 @@
      w = a es divisible por 400
      IsBisiesto = N → B / x ⋀ ((y ⋀ -z)⋁ w)
      
-     Arbol de expansion:
+  .Arbol de expansion:
      https://user-images.githubusercontent.com/63463118/84447008-4b905280-ac1d-11ea-941e-44bac12ebc54.png
     
 # Etapa 02: Analisis de la Solucion:
