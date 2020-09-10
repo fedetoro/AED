@@ -17,8 +17,17 @@ colores se pueden mezclar, lo cual produce un nuevo color que tiene el promedio
 de intensidad para cada componente.
 
 ### Restricciones
- 
 
+• Las operaciones de proyección para red, green, y blue se implementan con
+acceso directo a los componentes, no es necesario definir getters especiales.
+Por la misma razón, los setters no son necesarios.
+• Utilizar el tipo uint8_t de cstdint, si no es posible, usar unsigned char.
+• Los colores primarios, secundarios, negro y blanco deben implementarse
+como ocho variables declaradas fuera de main y de toda función, con el
+calificador const para que no puedan modificarse.
+• Implementar la operación IsIgual que retorna true si un color es igual a otro,
+si no, false.
+ 
 ### Léxico e Hipótesis de trabajo
 
 ### TIPOS DE DATOS 
