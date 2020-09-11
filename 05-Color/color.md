@@ -12,6 +12,6 @@
 #### promColor                     Ɛ   Color
 
 ## Conjunto de operaciones
---
+----
 #### mezclar2colores( Color, Color)    Ɛ   Color
 #### IsIgual( Color, Color)            Ɛ   bool
