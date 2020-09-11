@@ -1,4 +1,5 @@
-## Conjunto de valores
+## Conjunto de valores 
+---
 #### Color = {rojo,verde,azul}     Ɛ   unsigned char 
 #### colorRojo = {255,0,0}         Ɛ   const Color
 #### colorVerde = {0,255,0}        Ɛ   const Color
