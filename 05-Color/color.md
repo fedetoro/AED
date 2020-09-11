@@ -1,2 +1,2 @@
 ## Conjunto de valores
--- unsigned char = {rojo,verde,azul}
+### Color = {rojo,verde,azul}
