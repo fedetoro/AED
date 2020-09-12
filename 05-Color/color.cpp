@@ -1,4 +1,4 @@
-#include <color.h>
+#include "color.h"
 
 //DEFINICION DE FUNCIONES 
 /*mezclar2colores retorna un valor de tipo struct Color
@@ -14,14 +14,10 @@ Color mezclar2colores(Color color1, Color color2){
 	return promColor;
 }
 
-bool IsIgual(Color color1, Color color2){
-	if(color1.rojo == color2.rojo){
-		if(color1.verde == color2.verde){
-			if(color1.azul == color2.azul){
-				return true;
-			}
-		}
-	}
+bool IsIgual(Color color1, Color color2){ return 
+	((color1.rojo == color2.rojo)and(color1.verde == color2.verde)
+								 and(color1.azul == color2.azul))?	true	:	false;}
 	
-	return false;
-}
+			
+
+
